@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="318ba1d1-5654-4fe5-b639-4fe309fb7863" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UnjoojrmA1Vr2MdyG0NKx1lDmn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SIMEON\Desktop\JS APPLICATION\event\models" />
+      <recent name="C:\Users\SIMEON\Desktop\JS APPLICATION\event\views\events" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SIMEON\Desktop\JS APPLICATION\event" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="318ba1d1-5654-4fe5-b639-4fe309fb7863" name="Default Changelist" comment="" />
+      <created>1575999430425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575999430425</updated>
+      <workItem from="1575999433226" duration="21999000" />
+      <workItem from="1576128853911" duration="12224000" />
+      <workItem from="1576219659842" duration="6151000" />
+      <workItem from="1576228021150" duration="539000" />
+      <workItem from="1576228955784" duration="286000" />
+      <workItem from="1576229511756" duration="1159000" />
+      <workItem from="1576231263631" duration="140000" />
+      <workItem from="1576231858040" duration="64000" />
+      <workItem from="1576232918581" duration="1762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="649" y="169" key="#Inspections" timestamp="1576005584703">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="649" y="169" key="#Inspections/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1576005584703" />
+    <state x="802" y="314" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575999898168">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="802" y="314" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1575999898168" />
+    <state width="876" height="272" key="GridCell.Tab.0.bottom" timestamp="1576097552001">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="876" height="272" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1576097552001" />
+    <state width="876" height="272" key="GridCell.Tab.0.center" timestamp="1576097552001">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="876" height="272" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1576097552001" />
+    <state width="876" height="272" key="GridCell.Tab.0.left" timestamp="1576097552001">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="876" height="272" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1576097552001" />
+    <state width="876" height="272" key="GridCell.Tab.0.right" timestamp="1576097552001">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="876" height="272" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1576097552001" />
+    <state x="681" y="119" width="998" height="708" key="SettingsEditor" timestamp="1576004819129">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="681" y="119" width="998" height="708" key="SettingsEditor/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1576004819129" />
+  </component>
+</project>

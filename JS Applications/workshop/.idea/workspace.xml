@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4b177eb-1ae6-4647-8d27-60a49547e186" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UbcJOxEoV48ROsOzoFZ6h4Z5hi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.16.3" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../router/app.js" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.HTTP Request" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SIMEON\Desktop\JS APPLICATION\workshop\scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SIMEON\Desktop\JS APPLICATION\workshop" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4b177eb-1ae6-4647-8d27-60a49547e186" name="Default Changelist" comment="" />
+      <created>1575628662861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575628662861</updated>
+      <workItem from="1575628664057" duration="5458000" />
+      <workItem from="1575636130086" duration="13455000" />
+      <workItem from="1575688881351" duration="1623000" />
+      <workItem from="1575866377338" duration="81000" />
+      <workItem from="1575867179014" duration="5590000" />
+      <workItem from="1576229320276" duration="11000" />
+      <workItem from="1576230733200" duration="174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="259" key="FileChooserDialogImpl" timestamp="1575956089552">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="259" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1575956089552" />
+    <state x="341" y="147" key="SettingsEditor" timestamp="1575868194182">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="341" y="147" key="SettingsEditor/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1575868194182" />
+    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup" timestamp="1575868097484">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="231" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1575868097484" />
+  </component>
+</project>
